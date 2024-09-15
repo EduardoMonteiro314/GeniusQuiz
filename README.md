@@ -1,4 +1,4 @@
 # GeniusQuiz
 Clássico jogo do GeniusQuiz
 
-[Clique aqui para acessar](https://edu78combr-eduardomonteiro.github.io/GeniusQuiz/)
+[Clique aqui para acessar](https://eduardomonteiro314.github.io/GeniusQuiz/)
